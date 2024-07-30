@@ -1,0 +1,1211 @@
+/* @import url(./about.css); */
+
+* {
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+body {
+
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.565), rgba(0, 0, 0, 0.5)), url(./back.jpg);
+}
+
+/* -----------------heading--------------------- */
+h1 {
+    margin: 0 auto;
+    color: yellow;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 90px;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 2px 2px #1018b0;
+}
+
+/* ------------------content----------------------- */
+.container {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+
+}
+
+.container2 {
+    width: 100vw;
+    height: 130vh;
+    position: relative;
+
+}
+
+
+/* -------------------------------------------------- */
+.holo {
+    padding: 100px;
+}
+
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+.user1,
+.user2,
+.user3,
+.user4,
+.user5,
+.user6,
+.user7,
+.user8,
+.user9,
+.user10,
+.user11,
+.user12,
+.user13,
+.user14,
+.user15,
+.user16,
+.user17,
+.user18,
+.user19,
+.user20,
+.user21,
+.user22,
+.user23,
+.user24,
+.user25,
+.user26,
+.user27,
+.user28,
+.user29,
+.user30,
+.user31,
+.user32,
+.user33,
+.user34,
+.user35,
+.user36,
+.user37,
+.user38,
+.user39,
+.user40,
+.user41,
+.user42,
+.user43,
+.user44,
+.user45,
+.user46,
+.user47,
+.user48,
+.user49,
+.user50,
+.user51,
+.user52,
+.user53,
+.user54,
+.user55,
+.user56,
+.user57,
+.user58,
+.user59,
+.user60,
+.user61,
+.user62,
+.user63,
+.user64,
+.user65,
+.user66,
+.user67,
+.user68,
+.user69,
+.user70 {
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50% 10% 50% 10%;
+    position: absolute;
+    padding: 20px;
+    margin-top: 50px;
+    border: 5px solid white;
+
+
+}
+
+.user1 {
+    background-color: #690401;
+    left: 25%;
+}
+
+.user2 {
+
+    background-color: #8D0601;
+    left: 30%;
+}
+
+.user3 {
+    background-color: #B00802;
+    left: 35%;
+}
+
+.user4 {
+    background-color: #D30902;
+    left: 40%;
+    z-index: 1;
+}
+
+.user5 {
+    background-color: #D30902;
+
+    left: 45%;
+    z-index: 1;
+}
+
+.user6 {
+    background-color: #FC2821;
+    left: 50%;
+    z-index: 1;
+}
+
+.user7 {
+    
+    background-color: #f9342d;
+    left: 55%;
+    z-index: 1;
+}
+
+.user8 {
+    background-color: #FC4B44;
+    left: 60%;
+    z-index: 1;
+}
+
+.user9 {
+    background-color: #FD6D67;
+    left: 65%;
+    z-index: 1;
+}
+
+.user10 {
+    background-color: #FD8F8B;
+    left: 70%;
+    z-index: 1;
+    border-radius: 50% 10% 50% 10%;
+}
+
+
+/* ------------------------------------- */
+.user11 {
+    background-color: #230839;
+    left: 25%;
+}
+
+.user12 {
+    background-color: #3e0e63;
+    left: 30%;
+}
+
+.user13 {
+    background-color: #59148e;
+    left: 35%;
+}
+
+.user14 {
+    background-color: #731ab9;
+    left: 40%;
+}
+
+.user15 {
+    background-color: #8d25df;
+    left: 45%;
+}
+
+.user16 {
+    background-color: #a450e5;
+    left: 50%;
+}
+
+.user17 {
+    background-color: #ba7beb;
+    left: 55%;
+}
+
+.user18 {
+    background-color: #d0a5f2;
+    left: 60%;
+}
+
+.user19 {
+    background-color: #e6d0f8;
+    left: 65%;
+}
+
+.user20 {
+    background-color: #ede1f8;
+    left: 70%;
+}
+
+.user21 {
+
+    background-color: #ffaa00;
+    left: 25%;
+}
+
+.user22 {
+
+    background-color: #e9a214;
+    left: 30%;
+}
+
+.user23 {
+    background-color: #d39823;
+    left: 35%;
+}
+
+.user24 {
+    background-color: #dba841;
+    left: 40%;
+}
+
+.user25 {
+    background-color: #f9d75c;
+    left: 45%;
+}
+
+.user26 {
+    background-color: #f8e183;
+    left: 50%;
+}
+
+.user27 {
+    background-color: #f7e6ae;
+    left: 55%;
+}
+
+.user28 {
+    background-color: #f8ecc3;
+    left: 60%;
+}
+
+.user29 {
+    background-color: #faf1d9;
+    left: 65%;
+}
+
+.user30 {
+    background-color: #f9f6ea;
+    left: 70%;
+}
+
+.user31 {
+    background-color: #021B44;
+    left: 25%;
+    border-radius: 50% 10% 50% 10%;
+}
+
+.user32 {
+    background-color: #042866;
+    left: 30%;
+}
+
+.user33 {
+    background-color: #053689;
+    left: 35%;
+}
+
+.user34 {
+    background-color: #0744AB;
+    left: 40%;
+    z-index: 1;
+}
+
+.user35 {
+    background-color: #0851CD;
+    left: 45%;
+    z-index: 1;
+}
+
+.user36 {
+    background-color: #095FF0;
+    left: 50%;
+    z-index: 1;
+}
+
+.user37 {
+    background-color: #095FF0;
+    left: 55%;
+    z-index: 1;
+}
+
+.user38 {
+    background-color: #2774F6;
+    left: 60%;
+    z-index: 1;
+}
+
+.user39 {
+    background-color: #498AF7;
+    left: 65%;
+    z-index: 1;
+}
+
+.user40 {
+    background-color: #6CA0F8;
+    left: 70%;
+    z-index: 1;
+    border-radius: 50% 10% 50% 10%;
+}
+
+
+/* ------------------------------------- */
+.user41 {
+    background-color: #411E05;
+    left: 25%;
+}
+
+.user42 {
+    background-color: #622D08;
+    left: 30%;
+}
+
+.user43 {
+    background-color: #833C0B;
+    left: 35%;
+}
+
+.user44 {
+    background-color: #A44B0E;
+    left: 40%;
+}
+
+.user45 {
+    background-color: #E56A14;
+    left: 45%;
+}
+
+.user46 {
+    background-color: #EC7D30;
+    left: 50%;
+}
+
+.user47 {
+    background-color: #EF9251;
+    left: 55%;
+}
+
+.user48 {
+    background-color: #F2A772;
+    left: 60%;
+}
+
+.user49 {
+    background-color: #F5BB93;
+    left: 65%;
+}
+
+.user50 {
+    background-color: #f7cdb1;
+    left: 70%;
+}
+
+.user51 {
+    background-color: #123518;
+    left: 25%;
+}
+
+.user52 {
+    background-color: #1B4F24;
+    left: 30%;
+}
+
+.user53 {
+    background-color: #246A30;
+    left: 35%;
+}
+
+.user54 {
+    background-color: #369F49;
+    left: 40%;
+}
+
+.user55 {
+    background-color: #3FBA55;
+    left: 45%;
+}
+
+.user56 {
+    background-color: #57C66B;
+    left: 50%;
+}
+
+.user57 {
+    background-color: #72CF82;
+    left: 55%;
+}
+
+.user58 {
+    background-color: #8CD89A;
+    left: 60%;
+}
+
+.user59 {
+    background-color: #A7E1B1;
+    left: 65%;
+}
+
+.user60 {
+    background-color: #c4f3cc;
+    left: 70%;
+}
+
+.user61 {
+    background-color: #44021F;
+    left: 25%;
+}
+
+.user62 {
+    background-color: #67042F;
+    left: 30%;
+}
+
+.user63 {
+    background-color: #89053E;
+    left: 35%;
+}
+
+.user64 {
+    background-color: #AB064E;
+    left: 40%;
+}
+
+.user65 {
+    background-color: #CE085E;
+    left: 45%;
+}
+
+.user66 {
+    background-color: #F0096D;
+    left: 50%;
+}
+
+.user67 {
+    background-color: #F62781;
+    left: 55%;
+}
+
+.user68 {
+    background-color: #F74995;
+    left: 60%;
+}
+
+.user69 {
+    background-color: #F96BA9;
+    left: 65%;
+}
+
+.user70 {
+    background-color: #FA8EBD ;
+    left: 70%;
+}
+
+/* -------------------------------------------- */
+/* media query */
+@media only screen and (max-width:1425px) {
+    .container {
+        margin-top: 0;
+        padding: 0;
+        height: 100vh;
+    }
+
+    .container2 {
+        margin-top: 0;
+        padding: 0;
+        height: 100vh;
+        overflow-x: hidden;
+
+    }
+
+    h1 {
+        text-align: center;
+        width: 100%;
+        font-size: 50px;
+    }
+
+    .user1,
+    .user2,
+    .user3,
+    .user4,
+    .user5,
+    .user6,
+    .user7,
+    .user8,
+    .user9,
+    .user10,
+    .user11,
+    .user12,
+    .user13,
+    .user14,
+    .user15,
+    .user16,
+    .user17,
+    .user18,
+    .user19,
+    .user20,
+    .user21,
+    .user22,
+    .user23,
+    .user24,
+    .user25,
+    .user26,
+    .user27,
+    .user28,
+    .user29,
+    .user30,
+    .user31,
+    .user32,
+    .user33,
+    .user34,
+    .user35,
+    .user36,
+    .user37,
+    .user38,
+    .user39,
+    .user40,
+    .user41,
+    .user42,
+    .user43,
+    .user44,
+    .user45,
+    .user46,
+    .user47,
+    .user48,
+    .user49,
+    .user50,
+    .user51,
+    .user52,
+    .user53,
+    .user54,
+    .user55,
+    .user56,
+    .user57,
+    .user58,
+    .user59,
+    .user60,
+    .user61,
+    .user62,
+    .user63,
+    .user64,
+    .user65,
+    .user66,
+    .user67,
+    .user68,
+    .user69,
+    .user70 {
+        margin-top: 30px;
+        width: 80px;
+        height: 80px;
+        border-radius: 10% 10% 50% 50%;
+    }
+}
+
+@media only screen and (max-width:830px) {
+    .container {
+        margin-top: 0;
+        padding: 0;
+        height: 100vh;
+        margin-bottom: 20px;
+    }
+
+    .container2 {
+        margin-top: 0;
+        padding: 0;
+        height: 100vh;
+        overflow-x: hidden;
+
+    }
+
+    h1 {
+        text-align: center;
+        width: 100%;
+        font-size: 50px;
+    }
+
+    .user1,
+    .user2,
+    .user3,
+    .user4,
+    .user5,
+    .user6,
+    .user7,
+    .user8,
+    .user9,
+    .user10,
+    .user11,
+    .user12,
+    .user13,
+    .user14,
+    .user15,
+    .user16,
+    .user17,
+    .user18,
+    .user19,
+    .user20,
+    .user21,
+    .user22,
+    .user23,
+    .user24,
+    .user25,
+    .user26,
+    .user27,
+    .user28,
+    .user29,
+    .user30,
+    .user31,
+    .user32,
+    .user33,
+    .user34,
+    .user35,
+    .user36,
+    .user37,
+    .user38,
+    .user39,
+    .user40,
+    .user41,
+    .user42,
+    .user43,
+    .user44,
+    .user45,
+    .user46,
+    .user47,
+    .user48,
+    .user49,
+    .user50,
+    .user51,
+    .user52,
+    .user53,
+    .user54,
+    .user55,
+    .user56,
+    .user57,
+    .user58,
+    .user59,
+    .user60,
+    .user61,
+    .user62,
+    .user63,
+    .user64,
+    .user65,
+    .user66,
+    .user67,
+    .user68,
+    .user69,
+    .user70 {
+        margin-top: 30px;
+        width: 80px;
+        height: 80px;
+        border-radius: 10% 10% 50% 50%;
+    }
+}
+
+@media only screen and (max-width:786px) {
+    .container {
+        margin-top: 0;
+        padding: 0;
+        height: 100vh;
+    }
+
+    .container2 {
+        margin-top: 0;
+        padding: 0;
+        height: 100vh;
+
+    }
+
+    h1 {
+        text-align: center;
+        width: 100%;
+        font-size: 50px;
+    }
+
+    .user1,
+    .user2,
+    .user3,
+    .user4,
+    .user5,
+    .user6,
+    .user7,
+    .user8,
+    .user9,
+    .user10,
+    .user11,
+    .user12,
+    .user13,
+    .user14,
+    .user15,
+    .user16,
+    .user17,
+    .user18,
+    .user19,
+    .user20,
+    .user21,
+    .user22,
+    .user23,
+    .user24,
+    .user25,
+    .user26,
+    .user27,
+    .user28,
+    .user29,
+    .user30,
+    .user31,
+    .user32,
+    .user33,
+    .user34,
+    .user35,
+    .user36,
+    .user37,
+    .user38,
+    .user39,
+    .user40,
+    .user41,
+    .user42,
+    .user43,
+    .user44,
+    .user45,
+    .user46,
+    .user47,
+    .user48,
+    .user49,
+    .user50,
+    .user51,
+    .user52,
+    .user53,
+    .user54,
+    .user55,
+    .user56,
+    .user57,
+    .user58,
+    .user59,
+    .user60,
+    .user61,
+    .user62,
+    .user63,
+    .user64,
+    .user65,
+    .user66,
+    .user67,
+    .user68,
+    .user69,
+    .user70 {
+        margin-top: 30px;
+        width: 80px;
+        height: 80px;
+        border-radius: 10% 10% 50% 50%;
+    }
+}
+
+@media only screen and (max-width:426px) {
+    .container {
+        margin-top: 0;
+        padding: 0;
+        margin: 0 auto;
+        height: 100vh;
+    }
+
+    .container2 {
+        margin-top: 0;
+        padding: 0;
+        height: 100vh;
+
+    }
+
+    h1 {
+        text-align: center;
+        width: 100%;
+    }
+
+    .user1,
+    .user2,
+    .user3,
+    .user4,
+    .user5,
+    .user6,
+    .user7,
+    .user8,
+    .user9,
+    .user10,
+    .user11,
+    .user12,
+    .user13,
+    .user14,
+    .user15,
+    .user16,
+    .user17,
+    .user18,
+    .user19,
+    .user20,
+    .user21,
+    .user22,
+    .user23,
+    .user24,
+    .user25,
+    .user26,
+    .user27,
+    .user28,
+    .user29,
+    .user30,
+    .user31,
+    .user32,
+    .user33,
+    .user34,
+    .user35,
+    .user36,
+    .user37,
+    .user38,
+    .user39,
+    .user40,
+    .user41,
+    .user42,
+    .user43,
+    .user44,
+    .user45,
+    .user46,
+    .user47,
+    .user48,
+    .user49,
+    .user50,
+    .user51,
+    .user52,
+    .user53,
+    .user54,
+    .user55,
+    .user56,
+    .user57,
+    .user58,
+    .user59,
+    .user60,
+    .user61,
+    .user62,
+    .user63,
+    .user64,
+    .user65,
+    .user66,
+    .user67,
+    .user68,
+    .user69,
+    .user70 {
+        margin-top: 30px;
+        width: 70px;
+        height: 70px;
+        border-radius: 50% 50% 10% 10%;
+    }
+}
+
+@media only screen and (max-width:410px) {
+    .container {
+        margin-top: 0;
+        padding: 0;
+        height: 95vh;
+
+    }
+
+    .container2 {
+        margin-top: 30px;
+        padding: 0;
+        height: 100vh;
+
+    }
+
+    h1 {
+        text-align: center;
+        width: 100%;
+    }
+
+    .user1,
+    .user2,
+    .user3,
+    .user4,
+    .user5,
+    .user6,
+    .user7,
+    .user8,
+    .user9,
+    .user10,
+    .user11,
+    .user12,
+    .user13,
+    .user14,
+    .user15,
+    .user16,
+    .user17,
+    .user18,
+    .user19,
+    .user20,
+    .user21,
+    .user22,
+    .user23,
+    .user24,
+    .user25,
+    .user26,
+    .user27,
+    .user28,
+    .user29,
+    .user30,
+    .user31,
+    .user32,
+    .user33,
+    .user34,
+    .user35,
+    .user36,
+    .user37,
+    .user38,
+    .user39,
+    .user40,
+    .user41,
+    .user42,
+    .user43,
+    .user44,
+    .user45,
+    .user46,
+    .user47,
+    .user48,
+    .user49,
+    .user50,
+    .user51,
+    .user52,
+    .user53,
+    .user54,
+    .user55,
+    .user56,
+    .user57,
+    .user58,
+    .user59,
+    .user60,
+    .user61,
+    .user62,
+    .user63,
+    .user64,
+    .user65,
+    .user66,
+    .user67,
+    .user68,
+    .user69,
+    .user70 {
+        width: 60px;
+        height: 60px;
+        border-radius: 20%;
+    }
+
+
+}
+
+@media only screen and (max-width:395px) {
+    .container {
+        margin-top: 0;
+        padding: 0;
+        height: 95vh;
+
+    }
+
+    .container2 {
+        margin-top: 30px;
+        padding: 0;
+        height: 100vh;
+
+    }
+
+    h1 {
+        text-align: center;
+        width: 100%;
+    }
+
+    .user1,
+    .user2,
+    .user3,
+    .user4,
+    .user5,
+    .user6,
+    .user7,
+    .user8,
+    .user9,
+    .user10,
+    .user11,
+    .user12,
+    .user13,
+    .user14,
+    .user15,
+    .user16,
+    .user17,
+    .user18,
+    .user19,
+    .user20,
+    .user21,
+    .user22,
+    .user23,
+    .user24,
+    .user25,
+    .user26,
+    .user27,
+    .user28,
+    .user29,
+    .user30,
+    .user31,
+    .user32,
+    .user33,
+    .user34,
+    .user35,
+    .user36,
+    .user37,
+    .user38,
+    .user39,
+    .user40,
+    .user41,
+    .user42,
+    .user43,
+    .user44,
+    .user45,
+    .user46,
+    .user47,
+    .user48,
+    .user49,
+    .user50,
+    .user51,
+    .user52,
+    .user53,
+    .user54,
+    .user55,
+    .user56,
+    .user57,
+    .user58,
+    .user59,
+    .user60,
+    .user61,
+    .user62,
+    .user63,
+    .user64,
+    .user65,
+    .user66,
+    .user67,
+    .user68,
+    .user69,
+    .user70 {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+    }
+
+
+}
+
+@media only screen and (min-width: 1450px) {
+    .container {
+        padding: 0;
+        height: 105vh;
+
+    }
+
+    .container2 {
+
+        padding-top: 20px;
+        padding: 10px;
+        height: 120vh;
+        overflow-y: scroll;
+        /* overflow-x: hidden; */
+
+    }
+
+    .holo {
+        padding-top: 50px;
+        padding: 100px;
+    }
+
+    h1 {
+        padding-top: 50px;
+        text-align: center;
+        width: 100%;
+        font-size: 70px;
+    }
+
+    .user1,
+    .user2,
+    .user3,
+    .user4,
+    .user5,
+    .user6,
+    .user7,
+    .user8,
+    .user9,
+    .user10,
+    .user11,
+    .user12,
+    .user13,
+    .user14,
+    .user15,
+    .user16,
+    .user17,
+    .user18,
+    .user19,
+    .user20,
+    .user21,
+    .user22,
+    .user23,
+    .user24,
+    .user25,
+    .user26,
+    .user27,
+    .user28,
+    .user29,
+    .user30,
+    .user31,
+    .user32,
+    .user33,
+    .user34,
+    .user35,
+    .user36,
+    .user37,
+    .user38,
+    .user39,
+    .user40,
+    .user41,
+    .user42,
+    .user43,
+    .user44,
+    .user45,
+    .user46,
+    .user47,
+    .user48,
+    .user49,
+    .user50,
+    .user51,
+    .user52,
+    .user53,
+    .user54,
+    .user55,
+    .user56,
+    .user57,
+    .user58,
+    .user59,
+    .user60,
+    .user61,
+    .user62,
+    .user63,
+    .user64,
+    .user65,
+    .user66,
+    .user67,
+    .user68,
+    .user69,
+    .user70 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 150px;
+        height: 150px;
+        border-radius: 10% 50% 50% 50%;
+    }
+
+
+
+}
